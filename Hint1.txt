@@ -1,0 +1,10 @@
+look at the following:
+	< joystickMain > definitions:
+		how it's defined (beware! it's defined in two places)
+		the functions that are used from it
+	look at the TalonSRX:
+		beware that we have two talons for each side in the original code but you only need one
+		the function TalonSRX.Set()
+
+
+* watch out for includes *
